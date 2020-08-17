@@ -6,7 +6,7 @@ country: "au"      # lowercase two-letter ISO country code such as "fr" (see htt
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latitude: "-27.552941"     # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-27.552941"    # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "Sep 14-15, Sep 21-22 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "Sep 21-22 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00am to 12:30pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-09-14      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-09-22        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
@@ -105,7 +105,7 @@ address.
 {% endcomment %}
 {% if page.latitude and page.longitude %}
 <p id="where">
-  <strong>Where:</strong> Hosting training virtually via Zoom
+  <strong>Where:</strong> Hosting training virtually via Microsoft Teams
 </p>
 {% endif %}
 
@@ -135,7 +135,7 @@ You will need, at the minimum, speakers/headphones and a microphone, as well as 
 <br>
 If you have access to a second computer/screen/ipad etc, that will make your experience enormously better since you can then watch the instructor on one screen and type on the other. Unfortunately a phone screen won't be sufficient - you will need something that is big enough to follow what the instructor is typing.
 <br>
-Be aware that this workshop will effectively be two full days of video streaming. If you access the internet through a phone data plan, this may use all of your data allowance and become very expensive. In this case, please consider whether you can make alternative arrangements or let me know if you would like to withdraw from the workshop.
+Be aware that this workshop will effectively be two half days of video streaming. If you access the internet through a phone data plan, this may use all of your data allowance and become very expensive. In this case, please consider whether you can make alternative arrangements or let me know if you would like to withdraw from the workshop.
 </p>
 
 {% comment %}
