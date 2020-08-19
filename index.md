@@ -1,6 +1,6 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-venue: "Plotting and Programming in Python <br><br>Griffith University <br> Virtual Campus (hosted on Microsoft Teams) "        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "<br><br>Griffith University <br> Virtual Campus (hosted on Microsoft Teams) "        # brief name of host site without address (e.g., "Euphoric State University")
 address: "Griffith University, Virtual Campus"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "au"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
@@ -28,7 +28,7 @@ double quotation marks around the value, unless specified otherwise.
 And run 'make workshop-check' *before* committing to make sure that changes are good.
 {% endcomment %}
 
-<iframe width="800px" height= "600px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=q8h8Wtykm0-_YGZxQEmtYgli2x3zWW9Nt79Pc1vnhxZUMzdURTVEREs4TTlMTkNOR1hXTVkxOFZMTyQlQCN0PWcu&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+<iframe width="800px" height= "600px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=q8h8Wtykm0-_YGZxQEmtYgli2x3zWW9Nt79Pc1vnhxZUOVlQSFdBUlZGVDY1UDRaWkxGRExNSUdXWSQlQCN0PWcu" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 
 <h3>If you would like to be notified of later workshops, please complete this form: <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=q8h8Wtykm0-_YGZxQEmtYgli2x3zWW9Nt79Pc1vnhxZUMURYSENZV1MyT1pKTFlTTEFON1FYWDIyVSQlQCN0PWcu">Interested in programming classes</a>.</h3>
